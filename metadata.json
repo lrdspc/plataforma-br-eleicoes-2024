@@ -1,0 +1,5 @@
+{
+  "name": "Plataforma BR-Eleições",
+  "description": "A web application for managing electoral and general surveys in Brazil, featuring geospatial visualization and demographic quota tracking. This is an initial MVP focusing on core frontend structure and UI.",
+  "requestFramePermissions": []
+}
